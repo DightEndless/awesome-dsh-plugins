@@ -4,7 +4,7 @@
 
 New things the model can do: search, browser, files, databases, devices, media.
 
-4845 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+4846 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
@@ -2414,6 +2414,7 @@ New things the model can do: search, browser, files, databases, devices, media.
 | dsh-browser-bsk | 0 | [kexuejin/dsh-browser-bsk](https://github.com/kexuejin/dsh-browser-bsk) | DSH 浏览器能力 seam（ctx.browser）的 bsk 后端：把本机 browser-skill 的 bsk CLI 包成 browser 服务，供 dsh-accounts/fill 等消费者注入。 | 0.1.7-rc.2 (2026-09-29) |
 | dsh-browser-client | 0 | [flymysql/dsh-browser-client](https://github.com/flymysql/dsh-browser-client) | DSH host-side bridge for the DSH Browser Client extension: a token-authenticated /ext-api RPC proxy + /ext-events.mux WebSocket event stream + bidirectional /ext-api-control channel, so a browser | 0.1.1-rc.2 (2026-09-01) |
 | dsh-browser-control-pangyimi | 0 | [PangYiMing/dsh-browser-control](https://github.com/PangYiMing/dsh-browser-control) | DSH plugin for controlling browsers (CDP / Playwright) | 0.1.0-rc.8 (2026-08-20) |
+| dsh-browser-dightendless | 0 | [DightEndless/dsh-browser](https://github.com/DightEndless/dsh-browser/tree/HEAD/packages/browser/bridge-browser) · [npm](https://www.npmjs.com/package/@dightendless/dsh-bridge-browser) | Operate the Chrome or Edge tab you are already in, through an unpacked MV3 extension: hover, clicks, drag, batches, screenshots, uploads. Approval-gated, logins intact, pages as numbered text. | 0.2.0-rc.2 (2026-10-12) |
 | dsh-browser-harness | 0 | [chaserchan/dsh-browser-harness](https://github.com/chaserchan/dsh-browser-harness) · [npm](https://www.npmjs.com/package/dsh-browser-harness) | 浏览器控制插件：把 browser-use / browser-harness 的 Browser Harness 注册为 DSH 会话工具，让 agent 直接写 Python 驱动真实 Chrome（导航/点击/输入/取无障碍树/截图），支持独立专用浏览器与附着系统浏览器两种模式；配置 TypeSafe key 后条件启用 browser_autopilot（Jev 目标式自动化）。 | 0.1.7-rc.2 (2026-09-29) |
 | dsh-browser-justwebo | 0 | [justwe-bot/dsh-browser](https://github.com/justwe-bot/dsh-browser) | Browser capability for DeepSeek Harness: read and operate the user's live browser tabs through a companion Chrome extension. | 0.1.1-rc.2 (2026-08-26) |
 | dsh-browser-kasenri | 0 | [KasenRi/dsh-browser](https://github.com/KasenRi/dsh-browser) | 让 AI 真正操作浏览器完成任务。支持打开网页、点击、输入、翻页、读取内容和下载文件等操作，可用于网页测试、信息采集和自动化流程，并提供域名限制等安全控制。 | 0.2.0-rc.2 (2026-10-05) |

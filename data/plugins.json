@@ -1,6 +1,6 @@
 {
   "$schema": "./schema.json",
-  "updated": "2026-10-16",
+  "updated": "2026-10-12",
   "plugins": [
     {
       "name": "429-throttle-mcp",
@@ -350780,6 +350780,26 @@
         "safety"
       ],
       "pushedAt": "2026-10-07"
+    },
+    {
+      "name": "dsh-browser-dightendless",
+      "repo": "DightEndless/dsh-browser",
+      "path": "packages/browser/bridge-browser",
+      "description": "Operate the Chrome or Edge tab you are already in, through an unpacked MV3 extension: hover, clicks, drag, batches, screenshots, uploads. Approval-gated, logins intact, pages as numbered text.",
+      "category": "plugin",
+      "official": false,
+      "added": "2026-10-12",
+      "lastVerified": "2026-10-12",
+      "verifiedAgainst": "0.2.0-rc.2",
+      "status": "verified",
+      "evidence": "packages/browser/bridge-browser/package.json#dsh.bundle",
+      "npm": "@dightendless/dsh-bridge-browser",
+      "stars": 0,
+      "starsUpdated": "2026-10-12",
+      "tags": [
+        "capabilities"
+      ],
+      "pushedAt": "2026-10-12"
     }
   ]
 }
